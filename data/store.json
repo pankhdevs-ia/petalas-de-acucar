@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "cupcake",
+      "name": "Cupcake",
+      "price": 7.0,
+      "stock": 15,
+      "emoji": "🧁"
+    },
+    {
+      "id": "geladinho",
+      "name": "Geladinho",
+      "price": 5.5,
+      "stock": 20,
+      "emoji": "🍧"
+    },
+    {
+      "id": "brigadeiro",
+      "name": "Brigadeiro",
+      "price": 2.5,
+      "stock": 25,
+      "emoji": "🍫"
+    },
+    {
+      "id": "beijinho",
+      "name": "Beijinho",
+      "price": 2.5,
+      "stock": 25,
+      "emoji": "🥥"
+    },
+    {
+      "id": "bombom-uva",
+      "name": "Bombom de Uva",
+      "price": 4.5,
+      "stock": 15,
+      "emoji": "🍇"
+    },
+    {
+      "id": "bombom-morango",
+      "name": "Bombom de Morango",
+      "price": 4.5,
+      "stock": 15,
+      "emoji": "🍓"
+    },
+    {
+      "id": "pipoca-doce",
+      "name": "Pipoca Doce",
+      "price": 10.0,
+      "stock": 10,
+      "emoji": "🍿"
+    }
+  ],
+  "orders": [],
+  "settings": {
+    "pixKey": "07024640154",
+    "pixName": "Hevelyn Vitória Luz Nascimento",
+    "pixBank": "Inter",
+    "whatsapp": "63999999999",
+    "pickup": "Retirada no evento — Barraca Pétalas de Açúcar"
+  }
+}
